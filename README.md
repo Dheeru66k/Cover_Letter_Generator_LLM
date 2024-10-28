@@ -25,13 +25,21 @@ Simple API and User Interface:
 
 Accessible through an API that connects job details with Llama’s language generation capabilities.
 User-friendly interface for managing job inputs and generated cover letters, with support for easy customization of responses.
+
 How It Works
 Data Input: Users enter a URL or job description text.
+
 Job Details Parsing: The tool scrapes and parses job information, including role, required skills, and description.
+
 Skill Matching: Users’ skills and experiences are integrated to align with the extracted job details.
+
 Cover Letter Generation: A prompt template uses job and personal data to generate a unique, role-specific cover letter.
+
 Output: The cover letter is displayed in markdown format, ready to be copied and used directly.
+
 Use Cases
 Ideal for job seekers applying to multiple roles and needing tailored cover letters quickly.
+
 Useful for HR tools to automate part of the candidate application process.
+
 Suitable for developers looking to integrate cover letter generation into larger automation or job application platforms.
